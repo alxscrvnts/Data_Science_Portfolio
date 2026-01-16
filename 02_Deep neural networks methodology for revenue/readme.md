@@ -13,7 +13,7 @@ Arquitectura de Red Neuronal: Se diseñó una red secuencial de tres capas con u
 
 2. Optimización y validación: Uso de RandomizedSearchCV y validación cruzada estratificada (StratifiedKFold) para ajustar hiperparámetros, enfocándose en maximizar el F1-Score y la recuperación de cuentas en riesgo.
 
-### Resultados y proyecciones
+## Resultados y proyecciones
 Este sistema permite una transición de un modelo observacional a una gobernanza proactiva, protegiendo el Ingreso Anual Recurrente (ARR). La evaluación de 100 nuevas cuentas corporativas demostró el impacto del marco preventivo:
 
 1. Tasa de churn detectada: 22%, comparada con el promedio histórico de 6.75%.
