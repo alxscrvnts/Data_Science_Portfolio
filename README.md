@@ -21,7 +21,6 @@ Este repositorio centraliza mis proyectos de Ciencia de Datos, enfocados en la e
 * **📈 Forecasting & Modelación Numérica:** Predicciones de series temporales y optimización de métricas de negocio.
 * **🧠 Arquitecturas de Aprendizaje Profundo:** Modelos de clasificación y regresión para problemas de alta dimensionalidad.
 * **🧪 Frameworks Bayesianos:** Análisis de inferencia aplicados a la toma de decisiones bajo incertidumbre.
-* **🗣️ NLP Solutions:** Implementaciones de procesamiento de lenguaje natural para análisis de sentimientos o clasificación de texto.
 
 ---
 
